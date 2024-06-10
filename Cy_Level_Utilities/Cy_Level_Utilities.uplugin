@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Cy_Level_Utilities",
+	"Description": "Blueprint Function for Level and Level Streaming",
+	"Category": "Blueprints",
+	"CreatedBy": "CyberAlien",
+	"CreatedByURL": "https://www.cyberaliendev.com/",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "Cy_Level_Utilities",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
